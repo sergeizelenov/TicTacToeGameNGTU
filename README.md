@@ -41,6 +41,15 @@
     ```bash
     java -cp out ru.ngtu.zelenov.tictactoe.TicTacToeGame
     ```
+### Через исполняемый JAR-файл
+1.  Убедитесь, что у вас установлена Java (JRE) версии 21 или выше. 
+2.  Скачайте файл `executable/TicTacToeGameNGTU.jar` из этого репозитория. Можно найти его в папке `executable` (или `dist`).
+3.  Запустите скачанный `.jar` файл:
+    *   Двойным щелчком мыши.
+    *   ИЛИ через командную строку/терминал командой:
+        ```bash
+        java -jar TicTacToeGameNGTU.jar
+        ```
 
 ## Как играть
 
