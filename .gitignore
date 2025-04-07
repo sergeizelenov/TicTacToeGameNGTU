@@ -1,0 +1,29 @@
+# Скомпилированные файлы Java
+*.class
+
+# Логи
+*.log
+
+# Файлы пакетов/архивов
+*.jar
+*.war
+*.ear
+
+# Папки инструментов сборки
+target/
+build/
+out/
+
+# Файлы IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.project
+.classpath
+.settings/
+.DS_Store
+.vscode/
+
+# Файлы операционной системы
+Thumbs.db
